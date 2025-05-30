@@ -22,7 +22,14 @@ AGEPT é um aplicativo desenvolvido em React Native com Expo, voltado para peque
 
 
 ## 🛠️ Como Executar
-
+1. Em um ambiente com Node.Js e Expo execute no terminal:
+  npm install
+(Isso instala as dependências a partir do Package.json)
+2. Depois rode o Expo:
+  npx expo Start
+3. O navegador irá abrir um QR code.
+4. No seu celular, abra o app Expo Go e escaneie QR Code no Expo Go para abrir o app.
+5. 
 Você pode testar o projeto diretamente pelo celular, usando o [Expo Go](https://expo.dev/client):
 
 1. Instale o Expo Go na Play Store ou App Store.
