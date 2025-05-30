@@ -18,7 +18,8 @@ AGEPT é um aplicativo desenvolvido em React Native com Expo, voltado para peque
 
 ## 📸 Capturas de Tela
 
-*Adicione aqui imagens do app em funcionamento (você pode fazer isso depois que rodar o app pelo Expo Go).*
+(https://github.com/user-attachments/assets/f4f85799-08d3-47a1-9073-bec3a1030afa)
+
 
 ## 🛠️ Como Executar
 
